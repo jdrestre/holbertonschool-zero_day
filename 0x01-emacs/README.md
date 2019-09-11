@@ -8,3 +8,7 @@ What is the command to cut an entire line?
 What is the command to paste?
 4. Searching mandatory
 What is the command to search forward?
+5. Undoing mandatory
+What is the command to undo?
+6. Quitting mandatory
+What is the command to quit Emacs?
